@@ -4,7 +4,6 @@ Add funny colored scripts to every terminal window you open
 # Installation
 ```
 git clone https://github.com/Jabybaby/colors.git ~/colors
-chmod +x ~/colors/random.sh
 echo "~/colors/random.sh" >> ~/.bashrc
 ```
 
